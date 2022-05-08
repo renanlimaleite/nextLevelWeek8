@@ -1,4 +1,4 @@
-## Projeto Frontend feito com Vite e Yarn
+## Projeto Frontend feito com React, Typescript, Vite e Yarn
 
 #### Para iniciar:
 - Clone o projeto `git clone https://github.com/renanlimaleite/nextLevelWeek8.git`
