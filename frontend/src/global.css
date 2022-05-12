@@ -4,4 +4,12 @@
 
 body {
   @apply bg-[#09090a] text-zinc-100;
+  background-image: url('http://cdn.onlinewebfonts.com/svg/img_2146.png');
+  background-size: 300px 300px;
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    background-size: 400px;
+  }
 }
