@@ -14,3 +14,8 @@ npx prisma migrate dev
 - [3] Devemos poder substituir uma classe pai por uma herença dela e tudo continuar funcionando.
 - [4] ,,,
 - [5] Inverter as dependencias das classes.
+
+## TO START LOCAL:
+- `cd /backend`
+- `yarn install`
+- `yarn dev`
